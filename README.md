@@ -1,12 +1,14 @@
 # 좀비 아포칼립스
 
-마크에서 친구들이랑 좀비 아포칼립스 해보려고 만든 플러그인입니다.
+마크에서 좀비 아포칼립스가 일어나는 플러그인입니다.
 
 ## 서버 준비
 
 마크 **Java Edition 26.2**로 들어올 수 있게 **Paper 26.2 서버**를 준비해 주세요. 서버 실행에는 **Java 25**가 필요합니다.
 
 [Releases](https://github.com/beddeak/ZombieApocalypse/releases/latest)에서 `ZombieApocalypse-0.2.0.jar` 받아서 서버 `plugins` 폴더에 넣고 서버를 다시 켜면 됩니다. OP 받은 상태에서 `/apoc start` 치면 시작이고, 끄려면 `/apoc stop` 치면 됩니다.
+
+"동물을 제외한 모든 적대적 몬스터들이 좀비로 대처됩니다"
 
 ## 좀비 종류
 
